@@ -45,8 +45,17 @@ Tied to that anonymous identifier, Recall stores:
 
 Recall does not collect or store your name, email address, phone number,
 postal address, date of birth, precise or approximate location, photographs,
-videos, audio, contacts, calendar, health records, financial or payment
+videos, audio, contacts, calendar, medical records, financial or payment
 information, browsing history, or a list of other apps on your device.
+
+**One exception worth stating plainly:** if you turn on allergen alerts, the
+allergens you select are stored on our server, because the job that checks new
+recalls runs there rather than on your phone. Choosing "Nut Allergy" therefore
+tells us something about your health. It is attached to the anonymous device
+identifier and to nothing that identifies you, it is never shared, and clearing
+your selections or using **Settings → Delete my data** removes it. If you would
+rather we held nothing of the kind, leave allergen alerts off — every other
+part of the app works without them.
 
 Recall contains no advertising and no third-party analytics or tracking SDKs.
 It does not collect an advertising identifier, and it does not track you across
