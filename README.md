@@ -6,6 +6,7 @@ Pages, which requires a public repo on the free plan, without publishing the
 app's source.
 
 - **Privacy policy:** https://contactrecallapp.github.io/recall-privacy/privacy
+- **Delete your data:** https://contactrecallapp.github.io/Recall-Privacy/delete-data
 
 The canonical copy lives in the app repository at `PRIVACY_POLICY.md`. When it
 changes there, copy it here and update the effective date in both places.
